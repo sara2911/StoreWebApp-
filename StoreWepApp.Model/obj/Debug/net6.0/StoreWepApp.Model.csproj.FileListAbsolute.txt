@@ -1,0 +1,14 @@
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\bin\Debug\net6.0\StoreWepApp.Model.deps.json
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\bin\Debug\net6.0\StoreWepApp.Model.runtimeconfig.json
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\bin\Debug\net6.0\StoreWepApp.Model.dll
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\bin\Debug\net6.0\StoreWepApp.Model.pdb
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.csproj.AssemblyReference.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.AssemblyInfoInputs.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.AssemblyInfo.cs
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.csproj.CoreCompileInputs.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.dll
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\refint\StoreWepApp.Model.dll
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.pdb
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\StoreWepApp.Model.genruntimeconfig.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWepApp.Model\obj\Debug\net6.0\ref\StoreWepApp.Model.dll

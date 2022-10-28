@@ -1,0 +1,6 @@
+E:\Projects\E-commerc\StoreWebApp\StoreWebApp\obj\Debug\net6.0\StoreWebApp.csproj.AssemblyReference.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWebApp\obj\Debug\net6.0\StoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\E-commerc\StoreWebApp\StoreWebApp\obj\Debug\net6.0\StoreWebApp.AssemblyInfoInputs.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWebApp\obj\Debug\net6.0\StoreWebApp.AssemblyInfo.cs
+E:\Projects\E-commerc\StoreWebApp\StoreWebApp\obj\Debug\net6.0\StoreWebApp.csproj.CoreCompileInputs.cache
+E:\Projects\E-commerc\StoreWebApp\StoreWebApp\obj\Debug\net6.0\StoreWebApp.MvcApplicationPartsAssemblyInfo.cache

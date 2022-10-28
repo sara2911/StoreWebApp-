@@ -1,0 +1,466 @@
+﻿++Solution 'StoreWebApp' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:StoreWebApp.sln
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++.editorconfig
+i:{82c55cea-657c-4bd2-a116-23fc4578750d}:E:\Projects\E-commerc\StoreWebApp\.editorconfig
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\.editorconfig
+++StoreWebApp
+i:{00000000-0000-0000-0000-000000000000}:StoreWebApp
+++Connected Services 
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>627
+++Dependencies
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>626
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:>481
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>505
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:>504
+++Properties
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\properties\
+++Controllers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\controllers\
+++ProductController.cs
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\controllers\productcontroller.cs
+++WeatherForecastController.cs
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\controllers\weatherforecastcontroller.cs
+++appsettings.json
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\appsettings.json
+++IProductRepository.cs
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\iproductrepository.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\interface\basicdata\iproductrepository.cs
+++Program.cs
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\program.cs
+++WeatherForecast.cs
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\weatherforecast.cs
+++No service dependencies discovered
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>628
+++Analyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:analyzers
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:analyzers
+i:{0a245536-b435-4ff9-9654-6e511747221b}:analyzers
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:analyzers
+++Frameworks
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:frameworks
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:frameworks
+i:{0a245536-b435-4ff9-9654-6e511747221b}:frameworks
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:frameworks
+++Packages
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:packages
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:packages
+i:{0a245536-b435-4ff9-9654-6e511747221b}:packages
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:packages
+++Projects
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:projects
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:projects
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:projects
+++launchSettings.json
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\properties\launchsettings.json
+++appsettings.Development.json
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\users\work station\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\users\work station\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\users\work station\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\users\work station\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0a245536-b435-4ff9-9654-6e511747221b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewebapp\microsoft.netcore.app
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\microsoft.netcore.app
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\microsoft.netcore.app
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.5)
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>652
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:>636
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>681
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:>667
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>654
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>683
+++Microsoft.IdentityModel.Tokens (6.18.0)
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>653
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:>637
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>682
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:>668
+++Swashbuckle.AspNetCore (6.2.3)
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>651
+++System.IdentityModel.Tokens.Jwt (6.18.0)
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:>650
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:>635
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>680
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:>665
+++StoreWepApp.Model
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewepapp.model\storewepapp.model.csproj
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.model\storewepapp.model.csproj
+i:{00000000-0000-0000-0000-000000000000}:StoreWepApp.Model
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.model\storewepapp.model.csproj
+++StoreWepApp.repository
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewepapp.repository\storewepapp.repository.csproj
+i:{00000000-0000-0000-0000-000000000000}:StoreWepApp.repository
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.repository\storewepapp.repository.csproj
+++StoreWepApp.Services
+i:{bfbc7851-9ea9-469a-90e1-c47869f6f3ea}:e:\projects\e-commerc\storewebapp\storewepapp.services\storewepapp.services.csproj
+i:{00000000-0000-0000-0000-000000000000}:StoreWepApp.Services
+++DI
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\di\
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\di\
+++DIRepository.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\di\direpository.cs
+++Interface
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\interface\
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\interface\
+++repository
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\repository\
+++BasicData
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\repository\basicdata\
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\interface\basicdata\
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\interface\basicdata\
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\services\basicdata\
+++ProductRepository.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\repository\basicdata\productrepository.cs
+++GenericRepository.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\repository\genericrepository.cs
+++IUnitOfWork.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\iunitofwork.cs
+++UnitOfWork.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\unitofwork.cs
+++IGenericRepository.cs
+i:{bd85b993-024f-4450-94f8-48c4901582e2}:e:\projects\e-commerc\storewebapp\storewepapp.repository\interface\igenericrepository.cs
+++DB
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\db\
+++DBContext
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\dbcontext\
+++Migrations
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\migrations\
+++Product.cs
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\db\product.cs
+++StoreDBConext.cs
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\dbcontext\storedbconext.cs
+++20220514093834_create-data.cs
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\migrations\20220514093834_create-data.cs
+++StoreDBConextModelSnapshot.cs
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\migrations\storedbconextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>678
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{0a245536-b435-4ff9-9654-6e511747221b}:>679
+++20220514093834_create-data.Designer.cs
+i:{0a245536-b435-4ff9-9654-6e511747221b}:e:\projects\e-commerc\storewebapp\storewepapp.model\migrations\20220514093834_create-data.designer.cs
+++Imports
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:>263
+++bin
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\
+++Contexts
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\contexts\
+++DIService.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\di\diservice.cs
+++obj
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\
+++Services
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\services\
+++Sdk.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\
+++BasicDataContext.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\contexts\basicdatacontext.cs
+++Context
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\interface\context\
+++project.assets.json
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\project.assets.json
+++project.nuget.cache
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\project.nuget.cache
+++StoreWepApp.Services.csproj.nuget.dgspec.json
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\storewepapp.services.csproj.nuget.dgspec.json
+++StoreWepApp.Services.csproj.nuget.g.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\storewepapp.services.csproj.nuget.g.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\storewepapp.services.csproj.nuget.g.props
+++StoreWepApp.Services.csproj.nuget.g.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\storewepapp.services.csproj.nuget.g.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\storewepapp.services.csproj.nuget.g.targets
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:>666
+++Microsoft.Common.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net6.0
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\
+++IProductService.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\interface\basicdata\iproductservice.cs
+++IBasicDataContext.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\interface\context\ibasicdatacontext.cs
+++ProductService.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\services\basicdata\productservice.cs
+++Microsoft.NuGet.ImportBefore.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++StoreWepApp.Model.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.model.dll
+++StoreWepApp.Model.pdb
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.model.pdb
+++StoreWepApp.repository.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.repository.dll
+++StoreWepApp.repository.pdb
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.repository.pdb
+++StoreWepApp.Services.deps.json
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.services.deps.json
+++StoreWepApp.Services.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.services.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\ref\storewepapp.services.dll
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\refint\storewepapp.services.dll
+++StoreWepApp.Services.pdb
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\bin\debug\net6.0\storewepapp.services.pdb
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.pdb
+++ref
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\ref\
+++refint
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\refint\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++StoreWepApp.Services.AssemblyInfo.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.assemblyinfo.cs
+++StoreWepApp.Services.AssemblyInfoInputs.cache
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.assemblyinfoinputs.cache
+++StoreWepApp.Services.assets.cache
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.assets.cache
+++StoreWepApp.Services.csproj.AssemblyReference.cache
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.csproj.assemblyreference.cache
+++StoreWepApp.Services.csproj.BuildWithSkipAnalyzers
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.csproj.buildwithskipanalyzers
+++StoreWepApp.Services.csproj.CopyComplete
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.csproj.copycomplete
+++StoreWepApp.Services.csproj.CoreCompileInputs.cache
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.csproj.corecompileinputs.cache
+++StoreWepApp.Services.csproj.FileListAbsolute.txt
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.csproj.filelistabsolute.txt
+++StoreWepApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.generatedmsbuildeditorconfig.editorconfig
+++StoreWepApp.Services.GlobalUsings.g.cs
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:e:\projects\e-commerc\storewebapp\storewepapp.services\obj\debug\net6.0\storewepapp.services.globalusings.g.cs
+++Microsoft.NuGet.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Docker.targets
+i:{ea7b40cc-8759-4656-afcc-3560bb52954e}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
